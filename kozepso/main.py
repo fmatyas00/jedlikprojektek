@@ -21,6 +21,5 @@ def main() -> None:
         print(f"A legnagyobb szám a(z) {c}, a középső a(z) {a}, a legkisebb pedig a(z) {b}. :)")
     else:
         print(f"A legnagyobb szám a(z) {c}, a középső a(z) {b}, a legkisebb pedig a(z) {a}. :)")
-    input("--press enter to exit--")
 if __name__ == "__main__":
     main()
