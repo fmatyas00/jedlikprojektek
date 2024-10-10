@@ -27,6 +27,6 @@ def main() -> None:
     end = time.time()
     length = end - start
     helyesszazalek = jovalasz / (jovalasz + rosszvalasz) * 100
-    print(f"Ennyi idő alatt oldottad meg a feladványokat: {length}s.\n a válaszaid {helyesszazalek}% százaléka volt helyes :)")
+    print(f"Ennyi idő alatt oldottad meg a feladványokat: {round(length, 2)}s.\n a válaszaid {helyesszazalek}% százaléka volt helyes :)")
 if __name__ == "__main__":
     main()
