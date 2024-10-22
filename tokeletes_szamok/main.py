@@ -20,7 +20,7 @@ def main() -> None:
     print("vége")
     t2 = time.time()
     print(
-        f"tökéletes számok: {Mylist} \n program lefutásának ideje {round(t2 - t1, 3)}s. :)"
+        f"tökéletes számok: {Mylist} \nprogram lefutásának ideje {round(t2 - t1, 3)}s. :)"
     )
 
 
