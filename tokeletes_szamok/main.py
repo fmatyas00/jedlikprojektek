@@ -17,7 +17,7 @@ def main() -> None:
         if ez_tökéletes(vszam):
             Mylist.append(vszam)
             print("!")
-    print("ennyi! nincs több!")
+    print("vége")
     t2 = time.time()
     print(
         f"tökéletes számok: {Mylist} \n program lefutásának ideje {round(t2 - t1, 3)}s. :)"
