@@ -1,6 +1,5 @@
 import time
 
-
 def ez_tökéletes(vszam: int) -> bool:
     osztók_összege = sum(i for i in range(1, vszam) if vszam % i == 0)
     if osztók_összege == vszam:
