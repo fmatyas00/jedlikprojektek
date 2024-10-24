@@ -8,7 +8,6 @@ def ez_tökéletes(vszam: int) -> bool:
     else:
         return False
 
-
 def main() -> None:
     lista: list[int] = []
     t1 = time.time()
