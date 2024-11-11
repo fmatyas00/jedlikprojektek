@@ -1,5 +1,4 @@
 # keszits fuggvenyt, ami egy listat at 5os lotto lehetseges 5 szamanak ertekevel tolt fel
-from operator import truediv
 import random
 
 
@@ -11,12 +10,23 @@ def lottoszamgenerator() -> list[int]:
             szamok.append(szam)
     return szamok
 
+
+def szamok_osszege(t: list[int]) -> int:
+    osszeg: int = 0
+    for e in t:
+        osszeg += e
+    return osszeg
+
+
 def max_keresese(t: list[int]) -> int:
     aktualis_max: int = t[0]
-    for e in t[1:]:  # masodik elemtol indulva keressuk hogy van-e nagyobb elem (mert felesleges a 0. indexhez hasonlítani)
+    for e in t[
+        1:
+    ]:  # masodik elemtol indulva keressuk hogy van-e nagyobb elem (mert felesleges a 0. indexhez hasonlítani)
         if e > aktualis_max:
             aktualis_max = e  # ha van nagyobb, akkor az lesz a maximum ertekunk
     return aktualis_max
+
 
 def min_keresese(t: list[int]) -> int:
     aktualis_min: int = t[1]
@@ -25,14 +35,6 @@ def min_keresese(t: list[int]) -> int:
             aktualis_min = e
     return aktualis_min
 
-def paratlan_het(t: list[int]) -> bool:
-    heti_paratlanok: int = 0
-    for e in t[1:]:
-        if e % 2 == 1:
-            heti_paratlanok += 1
-        if heti_paratlanok == 5:
-            return True
-    return False
 
 # 1. adatszerkezet inicializalasa, feltoltese 91 db 0-val
 # 2. 1000 huzas generalasa, stat listaban a kihuzott szam db szamanak novelese
@@ -40,16 +42,22 @@ def paratlan_het(t: list[int]) -> bool:
 def main() -> None:
     print("Lottószám generátor: listák gyakorlása")
     stat: list[int] = [0] * 91
-    for _ in range(1000):
+    paratlanhet: int = 0
+    MaxOsszeg: int = 0
+    MaxOsszegHete: int = 0
+    for het in range(1000):
         szamok: list[int] = lottoszamgenerator()
+        paratlanhet: int = 0
         for szam in szamok:
             stat[szam] += 1
-        if paratlan_het(szamok):
-            print("igen, volt olyan hét amikor csak páratlan számokat húztak ki.") #volt-e olyan hét, amikor minden kihúzott szám páratlan volt (igen/nem)
-        else:
-            print("Nem volt olyan hét ahol csak páratlan számokat húztak volna ki.")
+            if szam % 2 == 1:
+                paratlanhet += 1
+        osszeg: int = szamok_osszege(szamok)
+        if osszeg > MaxOsszeg:
+            MaxOsszeg = szamok_osszege(szamok)
+            MaxOsszegHete = het
     maxdarab: int = max_keresese(stat)
-    mindarab: int = min_keresese(stat) #melyiket huzták ki a legkevesebbszer + db szám
+    mindarab: int = min_keresese(stat)  # melyiket huzták ki a legkevesebbszer + db szám
     print(f"A legtöbbször, {maxdarab}x kihúzott szám(ok):")
     for index, ertek in enumerate(stat):
         if ertek == maxdarab:
@@ -73,9 +81,17 @@ def main() -> None:
         NincsIlyenSzam = False
     if NincsIlyenSzam:
         print("nincs ilyen szám, mindent kihúztak")
+    if paratlanhet >= 5:
+        print("volt páratlan hét")
+    else:
+        print("nem volt páratlan hét")
+    print(
+        f"az első olyan hét amikor a számok összege a legnagyobb volt: {MaxOsszegHete}\nösszeg: {MaxOsszeg}"
+    )
 
-#HF.:
-    # Melyik volt az első olyan hét, amikor a számok összege a legnagyobb volt
-    # Melyik volt az első olyan hét, amikor a számok összege a legnagyobb volt
+
+# HF.:
+# Melyik volt az első olyan hét, amikor a számok összege a legnagyobb volt
+# Melyik volt az utolso olyan hét, amikor a számok összege a legnagyobb volt
 if __name__ == "__main__":
     main()
