@@ -5,7 +5,7 @@ def doboz_szamlal(targyak: list[int]) -> int:
         if doboz_akt + i <= 20:
             doboz_akt += i
         else:
-            doboz_akt = 0 + i
+            doboz_akt = i
             dobozok_szama += 1
     return dobozok_szama
 
