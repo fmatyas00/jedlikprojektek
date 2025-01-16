@@ -33,6 +33,19 @@ class Epulet:
     def magasság(self) -> float:
         return self._magasság
 
+    @property
+    def ország(self) -> str:
+        return self._ország
+
+    @property
+    def ez_olasz(self) -> bool:
+        return self._ország == "Olaszország"
+
+    @property
+    def magassag_láb(self) -> float:
+        return self._magasság * 3.280839895
+
+
     # Speciális metódus(függvény): konstruktor
     # Minden kódtagnak a self paraméter kötelző első formális paramétere
     # A self paraméter az osztálytagok elérését szolgálja

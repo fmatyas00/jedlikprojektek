@@ -23,6 +23,30 @@ class Megoldas:
                 legmagasabb = e
         return legmagasabb
 
+    @property
+    def van_olasz_épület(self) -> bool:
+        for e in self._epületek:
+            if e.ez_olasz:
+                return True
+        return False
+
+    @property
+    def épületek_száma_666(self) -> int:
+        db: int = 0
+        for e in self._epületek:
+            if e.magassag_láb > 666:
+                db += 1
+        return db
+
+    @property
+    def _ország_statisztika(self) -> dict[str, int]:
+        stat: dict[str, int] = {}
+        for e in self._epületek:
+            if e.ország in stat:
+                stat[e.ország] += 1
+            else:
+                stat[e.ország] = 1
+        return stat
 
     def __init__(self, állomány_neve: str) -> None:
         with open(állomány_neve, "r", encoding="utf-8") as file:
