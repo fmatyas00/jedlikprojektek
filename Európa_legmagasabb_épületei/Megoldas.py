@@ -4,7 +4,7 @@ from Epulet import Epulet
 class Megoldas:
     _epületek: list[Epulet] = []
 
-    @property #dekorator(??), metodust jellemzove alakit, nem lehet a self-en kivul mas parametere, igy amikor hivjuk, nem rakunk ()-et
+    @property  # dekorator(??), metodust jellemzove alakit, nem lehet a self-en kivul mas parametere, igy amikor hivjuk, nem rakunk ()-et
     def epuletek_szama(self) -> int:
         return len(self._epületek)
 
@@ -47,6 +47,21 @@ class Megoldas:
             else:
                 stat[e.ország] = 1
         return stat
+
+    @property
+    def statisztika(self) -> str:
+        vissza: str = ""
+        for key, value in self._ország_statisztika.items():
+            vissza += f"\t{key} - {value} db\n"
+        return vissza
+
+    @property
+    def Német_városok(self) -> set[str]:
+        német_városok: set[str] = set()
+        for e in self._epületek:
+            if e.ez_német:
+                német_városok.add(e.város)
+        return német_városok
 
     def __init__(self, állomány_neve: str) -> None:
         with open(állomány_neve, "r", encoding="utf-8") as file:

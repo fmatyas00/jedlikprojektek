@@ -13,6 +13,7 @@ def main() -> None:
     )
     print(f"666 lábnál magasabb épületek száma: {m.épületek_száma_666}")
     print("8. feladat: Ország statisztika")
+    print(m.statisztika)
 
 if __name__ == "__main__":
     main()
