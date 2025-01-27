@@ -32,7 +32,10 @@ def main() -> None:
     print(f"3. feladat: egyéni indulók: {len(futok)} fő")
     print(f"4. feladat: célba érkező női sportolók: {holgyek_a_celban_fo(futok)} fő")
     nev_input = input("5. feladat: kérem a sportoló nevét: ")
-    print(f"\tindult egyéniben a sportoló? {indult_egyeniben(futok, nev_input)}")
-    print(f"\tteljesítette a teljes távot? {tav_teljesitve(futok, nev_input)}")
+    indult_egyeniben_seged: str = indult_egyeniben(futok, nev_input)
+    print(f"\tindult egyéniben a sportoló? {indult_egyeniben_seged}")
+    if indult_egyeniben_seged == "igen":
+        print(f"\tteljesítette a teljes távot? {tav_teljesitve(futok, nev_input)}")
+    print(f"7. feladat")
 if __name__ == "__main__":
     main()

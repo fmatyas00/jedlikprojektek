@@ -28,3 +28,8 @@ class Futo:
         self._kategoria = kat
         self._versenyido = vi
         self._tav_szazalek = int(tsz)
+
+    @property
+    def ido_oraban(self) -> float:
+        h, m, s = self._versenyido.split(":")
+        return int(h) + int(m) / 60 + int(s) / 3600
