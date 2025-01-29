@@ -4,7 +4,7 @@ from Epulet import Epulet
 class Megoldas:
     _epületek: list[Epulet] = []
 
-    @property  # dekorator(??), metodust jellemzove alakit, nem lehet a self-en kivul mas parametere, igy amikor hivjuk, nem rakunk ()-et
+    @property  # dekorator, metodust jellemzove alakit, nem lehet a self-en kivul mas parametere, igy amikor hivjuk, nem rakunk ()-et
     def epuletek_szama(self) -> int:
         return len(self._epületek)
 
