@@ -56,7 +56,7 @@ class Megoldas:
         return vissza
 
     @property
-    def Német_városok(self) -> set[str]:
+    def _Német_városok(self) -> set[str]:
         német_városok: set[str] = set()
         for e in self._epületek:
             if e.ez_német:
@@ -68,3 +68,12 @@ class Megoldas:
             for sor in file.read().splitlines()[1:]:  # [1:] - első sor kihagyása
                 # Az osztálypéldány (objektum) létrehozása: Epulet(sor)
                 self._epületek.append(Epulet(sor))
+
+    def német_városok_állományba(self, állomány_neve: str) -> None:
+        with open(állomány_neve, "w", encoding="utf-8") as file:
+            file.writelines(self._Német_városok)
+
+    def német_városok_állományba2(self, állomány_neve: str) -> None:
+        with open(állomány_neve, "w", encoding="utf-8") as file:
+            for v in self._Német_városok:
+                file.write(v + "\n")
