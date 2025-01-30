@@ -30,6 +30,22 @@ class Futo:
         self._tav_szazalek = int(tsz)
 
     @property
+    def tt_ferfi(self) -> bool:
+        return self._tav_szazalek == 100 and self._kategoria == "Ferfi"
+
+    @property
+    def versenyido_float(self) -> float:
+        return float(self.ido_oraban)
+
+    @property
+    def rajtszam(self) -> str:
+        return self._rajtszam
+
+    @property
+    def versenyido_str(self) -> str:
+        return self._versenyido
+
+    @property
     def ido_oraban(self) -> float:
         h, m, s = self._versenyido.split(":")
         return int(h) + int(m) / 60 + int(s) / 3600
