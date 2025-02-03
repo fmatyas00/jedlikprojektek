@@ -1,6 +1,5 @@
 from Futo import Futo
 
-
 class Megoldas:
     _futok: list[Futo] = []
 
@@ -52,4 +51,15 @@ class Megoldas:
         for futo in f[1:]:
             if futo.ido_oraban < gyoztes.ido_oraban:
                 gyoztes = futo
+        return gyoztes
+
+    def gyoztes_futo2(self, kat: str):
+        gyoztes = None
+        for i in self._futok:
+            if i.kategoria == kat and i.celba_ert:
+                if gyoztes is None:
+                    gyoztes = i
+                else:
+                    if i.ido_oraban < gyoztes.ido_oraban:
+                        gyoztes = i
         return gyoztes

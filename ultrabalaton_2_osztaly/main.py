@@ -27,7 +27,7 @@ def gyoztes_futo(futok: list[Futo], kat: str) -> Futo:
 
 def main() -> None:
     # beolvasas, tarolas
-    futok: list[Futo] = beolvas("ub2017egyeni.txt")
+    # futok: list[Futo] = beolvas("ub2017egyeni.txt")
     print(f"3. feladat: egyéni indulók: {m.indulok_szama} fő")
     print(f"4. feladat: célba érkező női sportolók: {m.holgyek_a_celban_fo} fő")
     nev_input = input("5. feladat: kérem a sportoló nevét: ")
@@ -38,8 +38,16 @@ def main() -> None:
     print(
         f"7. feladat: Átlagos idő: {str(round(m.atlag_ora, 12)).replace(".", ",")} óra"
     )
-    print(f"8. feladatok: Verseny győztesei:\n\tNők: {gyoztes_futo(futok, "Noi").adatok}")
-    print(f"\tFérfiak: {gyoztes_futo(futok, "Ferfi").adatok}")
+    gyoztes = m.gyoztes_futo2("Noi")
+    if gyoztes is None:
+        print("Nincs női győztes")
+    else:
+        print(f"8. feladatok: Verseny győztesei:\n\tNők: {gyoztes.adatok}")
+    gyoztes = m.gyoztes_futo2("Ferfi")
+    if gyoztes is None:
+        print("Nincs férfi győztes")
+    else:
+        print(f"\tFérfiak: {gyoztes.adatok}")
 
 
 if __name__ == "__main__":
