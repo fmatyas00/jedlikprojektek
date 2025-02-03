@@ -6,6 +6,10 @@ class Futo:
     _tav_szazalek: int
 
     @property
+    def kategoria(self) -> str:
+        return self._kategoria
+
+    @property
     def holgy(self) -> bool:
         return self._kategoria == "Noi"
 
@@ -34,7 +38,7 @@ class Futo:
         return self._tav_szazalek == 100 and self._kategoria == "Ferfi"
 
     @property
-    def versenyido_float(self) -> float:
+    def versenyido(self) -> float:
         return float(self.ido_oraban)
 
     @property
@@ -42,8 +46,8 @@ class Futo:
         return self._rajtszam
 
     @property
-    def versenyido_str(self) -> str:
-        return self._versenyido
+    def adatok(self) -> str:
+        return f"{self._nev} ({self._rajtszam}) - {self._versenyido}"
 
     @property
     def ido_oraban(self) -> float:
