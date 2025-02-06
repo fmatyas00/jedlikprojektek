@@ -27,7 +27,7 @@ def gyoztes_futo(futok: list[Futo], kat: str) -> Futo:
 
 def main() -> None:
     # beolvasas, tarolas
-    # futok: list[Futo] = beolvas("ub2017egyeni.txt")
+    # chfutok: list[Futo] = beolvas("ub2017egyeni.txt")
     print(f"3. feladat: egyéni indulók: {m.indulok_szama} fő")
     print(f"4. feladat: célba érkező női sportolók: {m.holgyek_a_celban_fo} fő")
     nev_input = input("5. feladat: kérem a sportoló nevét: ")
