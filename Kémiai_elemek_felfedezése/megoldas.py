@@ -34,3 +34,23 @@ class Megoldas:
             if i < "A" or i > "Z":
                 return True
         return False
+
+    @property
+    def _stat(self) -> dict[int, int]:
+        stat: dict[int,int] = {}
+        for elem in self._kemiai_elemek:
+            if elem.felfedezes_ev != 0:
+                if elem.felfedezes_ev in stat:
+                    stat[elem.felfedezes_ev] += 1
+                else:
+                    stat[elem.felfedezes_ev] = 1
+        return stat
+
+    @property
+    def stat_out(self) -> str:
+        out: str = ""
+        for k, v in self._stat.items():
+            if v > 3:
+                out += f"\t{k}: {v} db \n"
+        return out
+

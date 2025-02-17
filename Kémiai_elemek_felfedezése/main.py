@@ -14,7 +14,7 @@ def main() -> None:
         print("\tNincs ilyen elem az adatforrásban")
     else:
         print(m.elem_adatai(inp))
-
+    print(f"8. feladat: statisztika \n{m.stat_out}")
 
 if __name__ == "__main__":
     main()
