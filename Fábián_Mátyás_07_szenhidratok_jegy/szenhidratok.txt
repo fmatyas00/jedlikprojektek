@@ -1,0 +1,375 @@
+Nev;Kategoria;Energia_kj;Energia_kcal;Feherje_g;Zsir_g;Szenhidrat_g
+Albert keksz;Édesipari termékek;1855;443;8.7;12;7.
+Alföldi kenyér;Kenyérfélék;1054;251;9.8;1.4;53.1
+Alma, jonatán;Zöldség- és főzelékfélék, gyümölcsök;126;30;0.4;0.4;7
+Aludttej, félzsíros;Erjesztett tejtermékek;172;41;3.4;1;4.6
+Amur;Halak és halkészítmények;588;141;18;7.5;0.2
+Ananász (friss);Zöldség- és főzelékfélék, gyümölcsök;213;51;0.4;0.7;12
+Angolna;Halak és halkészítmények;1200;285;15;25;0
+Angolszalonna;Zsiradékok;2033;486;16.8;46.5;0
+Anikó sajt;Erjesztett tejtermékek;1420;338;24.2;26;1.8
+Anyatej;Tej és tejtermékek;263;63;1.2;3.5;6.7
+Bab (száraz);Hüvelyesek;1310;313;21.9;1;54.1
+Babapiskóta;Édesipari termékek;1634;389;9.7;4.4;77.7
+Bakonyi barna kenyér;Kenyérfélék;1020;245;8.5;0.8;50.6
+Balaton sajt;Erjesztett tejtermékek;1445;344;22.8;27.3;1.7
+Balin;Halak és halkészítmények;500;120;17.8;5.5;0
+Banán;Zöldség- és főzelékfélék, gyümölcsök;431;103;1.3;0.1;24.2
+Bárányhús, juhhús, sovány;Hús és húskészítmények;812;194;19.7;12.7;0.3
+Baromfimortadella;Hús és húskészítmények;960;230;20.2;16.5;0
+Baromfivirsli;Hús és húskészítmények;795;190;18.8;13;0
+Békacomb;Halak és halkészítmények;490;115;24.2;0.9;2.9
+Bimbós kel;Zöldség- és főzelékfélék, gyümölcsök;206;49;4.9;0.6;6.1
+Birkahús;Hús és húskészítmények;1285;306;16.9;26.4;0.3
+Birsalma;Zöldség- és főzelékfélék, gyümölcsök;172;41;0.6;0.9;9.1
+Boci tejcsokoládé;Édesipari termékek;2320;554;9.3;34.1;52.8
+Boci, ízesített sajt;Erjesztett tejtermékek;1159;276;11.5;24.9;1.5
+Borjúhús;Hús és húskészítmények;502;110;19.5;4.5;0.3
+Borjúmáj, marhamáj;Hús és húskészítmények;527;126;20.9;3.1;3.6
+Borjúvelő, marhavelő, sertésvelő;Hús és húskészítmények;473;113;9;8.6;0
+Borsó (száraz);Hüvelyesek;1368;327;21.7;1.5;53.1
+Brokkoli;Zöldség- és főzelékfélék, gyümölcsök;100;24;3.3;0.2;2.1
+Budapest, Derby sajt;Erjesztett tejtermékek;1193;284;16.7;23.4;1.6
+Burgonya, nyári;Zöldség- és főzelékfélék, gyümölcsök;356;85;2.5;0.2;18.4
+Burgonya, téli;Zöldség- és főzelékfélék, gyümölcsök;385;92;2.5;0.2;20
+Burgonyapürépor;Zöldség- és főzelékfélék, gyümölcsök;1500;370;8.4;0.7;80
+Busa;Halak és halkészítmények;384;92;18;1.9;0.6
+Búzacsíra;Gabonafélék;2134;508;25;8;42
+Búzadara;Gabonafélék;1423;340;9.4;1;73.4
+Búzakorpa;Gabonafélék;2176;518;15;5.5;51
+Búzaliszt(főző);Gabonafélék;1443;345;13.5;1;70.4
+Búzamag, búzaliszt, teljes;Gabonafélék;1390;331;14.4;1.8;64.4
+Camembert-Bakony sajt;Erjesztett tejtermékek;1256;299;21.5;23;1.5
+Camembert-Tihany sajt, Séd brie;Erjesztett tejtermékek;1592;379;18.2;33.4;1.4
+Camping, Víkend sajt;Erjesztett tejtermékek;1302;310;16.5;26.4;1.7
+Céklarépa;Zöldség- és főzelékfélék, gyümölcsök;126;30;1.3;0.1;5.9
+Cikória;Zöldség- és főzelékfélék, gyümölcsök;64;16;1.3;0.2;2.3
+Citrom;Zöldség- és főzelékfélék, gyümölcsök;105;25;0.4;5.8;2.3
+Citromos, narancsos ostya;Édesipari termékek;2320;555;3.2;32.1;63.4
+Cukkini;Zöldség- és főzelékfélék, gyümölcsök;126;30;1.5;0.4;5.3
+Cukor (kristály, kocka, por);Édesipari termékek;1670;400;0;0;99.9
+Cukordinnye;Zöldség- és főzelékfélék, gyümölcsök;188;45;0.3;0.1;11.1
+Csabai kolbász;Hús és húskészítmények;1916;458;19.8;41.9;0.3
+Csabai paprikás szalámi;Hús és húskészítmények;2059;492;19.6;45.8;0.3
+Csabai vékony szalámi;Hús és húskészítmények;2070;495;22.7;44.7;0
+Császárhús;Zsiradékok;1920;459;10;45;0
+Csécsi szalonna;Zsiradékok;3404;814;3.1;85.9;0
+Csemege debreceni kolbász;Hús és húskészítmények;1284;307;15.7;27;0.2
+Csemege gépkaraj;Hús és húskészítmények;490;117;22;3;70
+Csemege uborka;Zöldség- és főzelékfélék, gyümölcsök;65;15;0.6;0.1;2.6
+Cseresznye;Zöldség- és főzelékfélék, gyümölcsök;255;61;0.8;0.7;14
+Cserkész- (úttörő)kolbász;Hús és húskészítmények;1702;335;16.3;29.8;0.3
+Csiperke, termesztett;Zöldség- és főzelékfélék, gyümölcsök;163;39;5.9;0.2;3.3
+Csipkebogyóíz;Zöldség- és főzelékfélék, gyümölcsök;1018;242;0.5;0.6;58
+Csirkecomb;Hús és húskészítmények;556;136;20.9;5.2;0.5
+Csirkemáj;Hús és húskészítmények;525;125;20;3.7;3
+Csirkemell;Hús és húskészítmények;440;110;24.7;1;0.5
+Csokoládépuding;Erjesztett tejtermékek;415;99;3.7;1.8;17
+Csokoládés mogyoró drazsé;Édesipari termékek;2225;532;7.2;30.2;56.8
+Csongrádi fűszerezett krémtúró;Erjesztett tejtermékek;382;91;12;3;4
+Csontvelő;Hús és húskészítmények;3439;822;3.2;89.9;0
+Darabolt, préselt bacon;Hús és húskészítmények;1735;415;11;41;0
+Datolya (préselt);Zöldség- és főzelékfélék, gyümölcsök;1264;301;1.9;1.3;72.5
+Dió;Olajos magvak;2740;654;18.6;57;11.7
+Diós búrkifli;Kenyérfélék;1778;425;7.3;24;45.2
+Disznósajt;Hús és húskészítmények;1314;310;14.5;28.3;0.2
+Egres;Zöldség- és főzelékfélék, gyümölcsök;159;38;0.6;1.4;8
+Eidami sajt;Erjesztett tejtermékek;1474;351;26.2;26.6;1.7
+Éticsiga;Halak és halkészítmények;334;80;17.6;1;0.2
+Extra barna bonbon;Édesipari termékek;2275;545;9.9;31.1;54.9
+Extra kenőmájas;Hús és húskészítmények;1315;315;15.4;28;0
+Fácánhús;Hús és húskészítmények;452;108;22.3;1.9;0.5
+Fagylalt, tejszínes;Édesipari termékek;896;214;7.2;6.4;36
+Farmerkolbász;Hús és húskészítmények;2320;555;15.5;55;0
+Fehér, nyers szalonna;Zsiradékok;2925;699;4.2;75.8;0
+Fejes káposzta;Zöldség- és főzelékfélék, gyümölcsök;130;31;1.6;0.2;5.7
+Fejes saláta;Zöldség- és főzelékfélék, gyümölcsök;64;16;1.4;0.3;2
+Feketegyökér;Zöldség- és főzelékfélék, gyümölcsök;160;38;4.3;0.9;5.1
+Félbarna kenyér;Kenyérfélék;1075;257;9.8;1;52.3
+Fogas;Halak és halkészítmények;351;84;19;0.8;0.2
+Fogolyhús;Hús és húskészítmények;396;94;20.5;1.2;0.4
+Fokhagyma;Zöldség- és főzelékfélék, gyümölcsök;559;133;6.8;0.1;26.3
+Földimogyoró;Olajos magvak;2560;610;26.7;47.2;14.7
+Füge (szárított);Zöldség- és főzelékfélék, gyümölcsök;1100;270;3.5;1.3;62
+Fürjcomb;Hús és húskészítmények;538;128;19.6;5;1.2
+Fürjmell;Hús és húskészítmények;487;116;22.8;2.3;1.1
+Fürjtojás, egész;Tojások;630;150;12.5;10.8;0.7
+Füstölt angolna;Halak és halkészítmények;1949;466;27.7;39.4;0.2
+Füstölt hús, sonka;Hús és húskészítmények;1531;366;17.2;33;0.1
+Füstölt kolbász;Hús és húskészítmények;1222;292;15.5;25.4;0.3
+Füstölt, főtt tarja;Hús és húskészítmények;840;201;15;15;0
+Galamb;Hús és húskészítmények;538;128;19.6;5;1.2
+Gépsonka;Hús és húskészítmények;637;156;22.6;7.1;0.4
+Gesztenye;Olajos magvak;700;167;4.8;1.5;32.6
+Gomolyatúró, zsíros;Erjesztett tejtermékek;882;210;14.7;22.5;2.8
+Göcseji, Misi sajt;Erjesztett tejtermékek;1277;304;22.2;23.3;1.4
+Görögdinnye;Zöldség- és főzelékfélék, gyümölcsök;122;29;0.5;0.2;6.5
+Graham-(búza)kenyér;Kenyérfélék;1110;265;10.1;1;54
+Grapefruit;Zöldség- és főzelékfélék, gyümölcsök;146;35;0.5;1.6;7.2
+Gyulai páros, főzőkolbász;Hús és húskészítmények;1640;392;17.8;35.5;0.3
+Gyümölcsfagylalt;Édesipari termékek;526;126;3;0;28.5
+Habosított krémtúrók;Erjesztett tejtermékek;550;131;11;3;15
+Habroló (üres, töltetlen);Kenyérfélék;2188;521;8.1;35.2;43
+Habtejszín;Erjesztett tejtermékek;1221;292;2.6;30;3
+Hajdú sajt;Erjesztett tejtermékek;1537;366;25;28.9;1.5
+Harcsa;Halak és halkészítmények;326;78;17.5;0.8;0.2
+Házi szárazkolbász;Hús és húskészítmények;2070;495;22.9;44.7;0
+Házifehér kenyér;Kenyérfélék;1092;261;10;0.8;53.5
+Háztartási keksz;Édesipari termékek;1640;392;9.8;6.8;78
+Hek;Halak és halkészítmények;374;89;20;0.9;0
+Hering, göngyölt;Halak és halkészítmények;904;216;19.8;14.8;1
+Hering, mustáros;Halak és halkészítmények;665;159;15.9;11.7;2.5
+Hering, olajos;Halak és halkészítmények;1540;368;15.9;33.8;0
+Hering, paradicsomos;Halak és halkészítmények;879;254;18.9;14.6;0.8
+Hot dog kolbász;Hús és húskészítmények;1650;393;14.1;37.4;0
+Hóvirág kétszersült, édes;Kenyérfélék;1623;388;11.3;5.1;74.2
+Hóvirág kétszersült, sós;Kenyérfélék;1699;406;11.3;4.1;80.4
+Hóvirág, Mecseki tömbsajt;Erjesztett tejtermékek;1266;303;21;23.4;2
+Húskenyér;Hús és húskészítmények;960;230;15.6;18.5;0
+Ilmici sajt;Erjesztett tejtermékek;1360;324;23.9;24.8;1.5
+Író;Erjesztett tejtermékek;138;33;3.2;0.5;3.8
+Ízesített, kenhető sajt;Erjesztett tejtermékek;1189;283;15.5;23.7;1.9
+Jégkrém, csokoládés, poharas;Édesipari termékek;643;153;3.7;3.9;28.3
+Joghurt, gyümölcsös;Erjesztett tejtermékek;307;73;3.5;2;10.3
+Joghurthab, citromos;Erjesztett tejtermékek;423;101;4.5;2.8;14.3
+Joghurthab, epres;Erjesztett tejtermékek;469;112;4.2;2.6;17.8
+Juhtej;Tej és tejtermékek;456;109;6.1;7.2;5
+Kacsahús, pecsenye;Hús és húskészítmények;781;186;19;12;0.4
+Kagyló;Halak és halkészítmények;275;65;9;2;6.5
+Kajszibarack;Zöldség- és főzelékfélék, gyümölcsök;192;46;0.9;0.6;10.2
+Kakaópor;Édesipari termékek;1621;386;21.4;19;32.4
+Kakaós tej;Tej és tejtermékek;270;65;3.5;0.5;11.4
+Kaposi sonka;Hús és húskészítmények;460;110;17.8;4;0
+Karalábé;Zöldség- és főzelékfélék, gyümölcsök;160;38;2.1;0.2;6.9
+Karamellás tej;Tej és tejtermékek;315;75;3.2;1.5;12.5
+Karaván, füstölt tömbsajt;Erjesztett tejtermékek;1436;342;22.3;27.3;1.9
+Karfiol;Zöldség- és főzelékfélék, gyümölcsök;121;29;2.4;0.4;3.9
+Kaskaval sajt;Erjesztett tejtermékek;1504;358;23.6;28.7;1.4
+Kávés tej;Tej és tejtermékek;328;78;3.5;1.5;13
+Kávétejszín;Erjesztett tejtermékek;723;173;3.3;16;3.9
+Kaviár;Halak és halkészítmények;1117;266;26;16;4.6
+Kecsketej;Tej és tejtermékek;284;68;3.6;3.9;4.7
+Kedvenc táblás nugát;Édesipari termékek;2280;545;6.4;31.4;59.1
+Kefir, joghurt;Erjesztett tejtermékek;272;65;3.4;3.6;4.6
+Kefir, sovány;Erjesztett tejtermékek;138;33;3.4;0.1;4.6
+Kelkáposzta;Zöldség- és főzelékfélék, gyümölcsök;142;34;3.6;0.3;4.3
+Kenőmájas;Hús és húskészítmények;1314;314;15.9;27.7;0.3
+Kesudió;Olajos magvak;2500;600;18;42;32
+Keszeg;Halak és halkészítmények;320;77;16.9;0.8;0.2
+Kétszersült (karlsbadi);Kenyérfélék;1833;438;11;5.7;80.7
+Kínai kel;Zöldség- és főzelékfélék, gyümölcsök;63;15;1.2;0.3;2
+Kiwi;Zöldség- és főzelékfélék, gyümölcsök;231;55;1;0.6;11.3
+Kolozsvári szalonna;Zsiradékok;2561;612;18.1;61.1;0
+Konyakos meggy;Édesipari termékek;1800;430;2.4;17.4;61
+Köles, hántolt;Gabonafélék;1520;362;11;3.9;70.6
+Köményes sajt;Erjesztett tejtermékek;916;218;30.5;10;1.6
+Körített tehéntúró;Erjesztett tejtermékek;700;165;20.4;7.8;3.8
+Körözött;Erjesztett tejtermékek;1150;275;18.2;21.1;3
+Körte;Zöldség- és főzelékfélék, gyümölcsök;209;50;0.4;0.3;12
+Krém fehérsajt;Erjesztett tejtermékek;1029;245;13.4;20.6;1.4
+Krémjoghurt, extra;Erjesztett tejtermékek;315;75;3.4;5;4.6
+Krémtúró (félzsíros);Erjesztett tejtermékek;640;110;14.1;6.5;3.2
+Krémtúró (zsíros);Erjesztett tejtermékek;795;190;10.8;15;3
+Krémtúró, mazsolás, vaníliás;Erjesztett tejtermékek;905;215;15.1;8.8;19.1
+Kukoricaliszt, kukoricadara;Gabonafélék;1452;347;9.6;3.1;70.2
+Kukoricapehely;Gabonafélék;1512;360;7.7;0.6;83
+Különleges vagdalthús (150 g);Hús és húskészítmények;1605;385;19.5;30;9
+Lajta sajt;Erjesztett tejtermékek;1529;364;22.6;29.7;1.6
+Laskagomba, termesztett;Zöldség- és főzelékfélék, gyümölcsök;175;42;1.9;0.7;6
+Lazac;Halak és halkészítmények;865;206;20;14;0
+Lecsókolbász;Hús és húskészítmények;1142;273;16.3;22.9;0.3
+Lekváros bukta;Kenyérfélék;1310;313;7.6;6.2;56.6
+Lencse;Hüvelyesek;1393;333;26;1.9;53
+Libahús, hízott;Hús és húskészítmények;1590;380;16;35;0.2
+Libahús, pecsenye;Hús és húskészítmények;832;198;18.5;13.6;0.3
+Libamáj;Hús és húskészítmények;1891;203;22.1;40.2;0.5
+Libazsír;Zsiradékok;3736;893;0.5;99;0
+Lóhús;Hús és húskészítmények;483;115;21.5;2.5;0.9
+Luncheon meat;Hús és húskészítmények;1600;385;20.7;33;3
+Mackó, Csárdás sajt;Erjesztett tejtermékek;1260;300;16.7;25;2
+Májas hurka;Hús és húskészítmények;1247;298;14;23;8.7
+Mák;Olajos magvak;2250;537;20.5;38.2;23.9
+Málna;Zöldség- és főzelékfélék, gyümölcsök;117;28;1.2;0.8;5.4
+Málnadzsem, üveges;Zöldség- és főzelékfélék, gyümölcsök;1075;255;0.5;0.5;63.3
+Mandarin;Zöldség- és főzelékfélék, gyümölcsök;184;44;0.7;0.8;9.8
+Mandula;Olajos magvak;2630;627;27.6;52.2;6.8
+Mangold;Zöldség- és főzelékfélék, gyümölcsök;97;23;2.1;0.3;2.9
+Margarin;Zsiradékok;3180;760;0.5;84;0.4
+Marhahús, bélszín;Hús és húskészítmények;496;118;19;4.4;0.6
+Marhahús, felsál;Hús és húskészítmények;974;232;17;19;0.6
+Marhahús, hátszín, lapos;Hús és húskészítmények;958;226;16;19;0.6
+Marhahús, hátszín, magas;Hús és húskészítmények;857;204;19;14;0.6
+Marhahús, hátszín, puha;Hús és húskészítmények;1025;244;20;18;0.6
+Marhalapocka;Hús és húskészítmények;596;142;21;6.2;0.6
+Marhanyelv, borjúnyelv;Hús és húskészítmények;929;222;15.7;17.6;0.1
+Marhapacal;Hús és húskészítmények;686;164;15.9;11.2;0
+Marhaszegy;Hús és húskészítmények;1071;255;16;21;0.5
+Marhaszív, borjúszív;Hús és húskészítmények;770;184;16.1;13.1;0.3
+Marhatarja;Hús és húskészítmények;563;134;19;6.2;0.6
+Marhatüdő, borjútüdő, sertéstüdő;Hús és húskészítmények;456;109;19.1;6.5;0
+Mártott zselés ív;Édesipari termékek;1490;355;0.9;7.5;71.5
+Márványsajt (rokfort);Erjesztett tejtermékek;1485;355;20;29.7;2
+Márványsajt, vajas;Erjesztett tejtermékek;1900;455;11;45;1.3
+Mazsola;Zöldség- és főzelékfélék, gyümölcsök;1159;276;2.4;6.7;65
+Meggy;Zöldség- és főzelékfélék, gyümölcsök;213;51;0.8;1.4;11
+Meggybefőtt;Zöldség- és főzelékfélék, gyümölcsök;370;90;0.6;1;20.8
+Meggydzsem, üveges;Zöldség- és főzelékfélék, gyümölcsök;1195;285;0.4;0.7;70.3
+Mese sajt;Erjesztett tejtermékek;1000;238;13.5;19.5;2
+Méz;Édesipari termékek;1362;362;0.4;0;81
+Mezei szegfűgomba;Zöldség- és főzelékfélék, gyümölcsök;139;33;4.2;0.9;1.9
+Mini sajtos keksz;Édesipari termékek;2155;515;12.5;28.5;52
+Mogyoró;Olajos magvak;2900;691;15.6;63.5;8.7
+Mogyorós étcsokoládé;Édesipari termékek;2520;602;7.3;44.2;43.7
+Nagy őzlábgomba;Zöldség- és főzelékfélék, gyümölcsök;168;40;4.9;1.3;1.8
+Napraforgómag;Olajos magvak;2108;502;18.7;47.5;0
+Napraforgóolaj, tökmagolaj, szójaolaj;Zsiradékok;3757;898;0;99.8;0
+Narancs;Zöldség- és főzelékfélék, gyümölcsök;167;40;0.6;1.5;8.5
+Naspolya;Zöldség- és főzelékfélék, gyümölcsök;222;53;0.6;1.1;12
+Negró, töltött gyógycukorka;Édesipari termékek;1617;386;0;0;95
+Nektarin;Zöldség- és főzelékfélék, gyümölcsök;202;48;0.4;0.5;11.4
+Nyári vargánya;Zöldség- és főzelékfélék, gyümölcsök;160;38;6.4;0.8;1.3
+Nyáriszalámi;Hús és húskészítmények;1209;289;15.2;25.2;0.3
+Nyúlhús, házi;Hús és húskészítmények;661;158;21;8;0.4
+Nyúlhús, vad;Hús és húskészítmények;435;104;23;1.1;0.5
+Olajbogyó;Zöldség- és főzelékfélék, gyümölcsök;937;223;0.2;21.9;6.5
+Olajoshal-konzerv;Tartósított élelmiszerek;1625;390;20.6;29.8;0.1
+Olasz felvágott, mortadella;Hús és húskészítmények;1393;333;13.7;30.8;0.3
+Óvári sajt;Erjesztett tejtermékek;1226;292;29.6;18.5;1.7
+Őszibarack;Zöldség- és főzelékfélék, gyümölcsök;167;40;0.7;0.3;9
+Őzhús;Hús és húskészítmények;427;102;20.8;1.9;0.4
+Padlizsán;Zöldség- és főzelékfélék, gyümölcsök;105;25;1.3;0.2;4.8
+Pálpusztai sajt;Erjesztett tejtermékek;1197;285;22.6;21;1.4
+Pannónia sajt;Erjesztett tejtermékek;1604;382;27.8;29.4;1.5
+Pápai sonkás felvágott;Hús és húskészítmények;1120;270;11;25;0
+Pápai sonkás páros;Hús és húskészítmények;1400;335;12.3;32;0
+Paprika, marinált;Zöldség- és főzelékfélék, gyümölcsök;120;30;0.6;1.8;1.5
+Paprikás téliszalámi (Szegediner);Hús és húskészítmények;2010;480;24.5;42.6;0
+Paprikás, erdélyi túrista felvágott;Hús és húskészítmények;1130;270;22.4;45;0
+Paradicsom;Zöldség- és főzelékfélék, gyümölcsök;92;22;1;0.2;4
+Paradicsompüré, sűrített;Zöldség- és főzelékfélék, gyümölcsök;460;110;5;1;20
+Paraj (spenót);Zöldség- és főzelékfélék, gyümölcsök;75;18;2.3;0.3;1.8
+Parenyica, füstölt sonkasajt;Erjesztett tejtermékek;1613;384;26;30.4;1.5
+Párizsi, krinolin, szafaládé;Hús és húskészítmények;887;212;11.9;18.2;0.2
+Parmezán (jellegű) sajt;Erjesztett tejtermékek;1570;374;26.8;28.9;1.6
+Pászka (macesz);Kenyérfélék;1590;380;14.8;1.1;77.8
+Pasztinák;Zöldség- és főzelékfélék, gyümölcsök;280;68;1.3;0.4;14.9
+Patisszon;Zöldség- és főzelékfélék, gyümölcsök;126;30;1.2;0.1;6.2
+Petrezselyemgyökér;Zöldség- és főzelékfélék, gyümölcsök;121;29;1.2;0.1;5.9
+Petrezselyemzöld;Zöldség- és főzelékfélék, gyümölcsök;251;60;4.4;0.4;9.8
+Pikniksonka;Hús és húskészítmények;535;130;18.5;6;0
+Pisztráng;Halak és halkészítmények;452;113;21.5;2.9;0
+Ponty;Halak és halkészítmények;420;100;16;4;0.1
+Póréhagyma;Zöldség- és főzelékfélék, gyümölcsök;151;36;2.2;0.3;6.3
+Poulard (kappan);Hús és húskészítmények;682;163;19.3;9.3;0.4
+Pritamin;Zöldség- és főzelékfélék, gyümölcsök;240;55;3.4;0.8;8.6
+Pudingpor, csokoládés;Édesipari termékek;1626;388;2.5;8.7;75
+Pulykafelvágott;Hús és húskészítmények;630;150;20.6;7.5;0
+Pulykahús;Hús és húskészítmények;708;169;20.5;9.5;0.4
+Pulykajava;Hús és húskészítmények;460;110;24.1;1.5;0
+Rebarbara;Zöldség- és főzelékfélék, gyümölcsök;67;16;0.6;0.1;3.3
+Retek, hónapos;Zöldség- és főzelékfélék, gyümölcsök;63;15;1.2;0.1;2.2
+Ribizke, fekete;Zöldség- és főzelékfélék, gyümölcsök;197;47;0.9;2;9.5
+Ribizke, vörös;Zöldség- és főzelékfélék, gyümölcsök;138;33;0.6;1.2;7
+Ringló;Zöldség- és főzelékfélék, gyümölcsök;247;59;0.8;0.8;13.5
+Rizs, hántolt;Gabonafélék;1443;345;8;0.3;77.5
+Rizsliszt;Gabonafélék;1370;325;6.9;0.6;79.4
+Rozskenyér;Kenyérfélék;1067;255;8.1;0.9;53.6
+Sárgabarackdzsem, üveges;Zöldség- és főzelékfélék, gyümölcsök;1090;260;0.4;0.3;64.5
+Sárgaborsóliszt;Hüvelyesek;1522;362;27.2;1.3;60.5
+Sárgarépa;Zöldség- és főzelékfélék, gyümölcsök;146;35;1.2;0.2;8.1
+Sertéscomb, karaj;Hús és húskészítmények;668;159;21;8.1;0.4
+Sertéscsülök;Hús és húskészítmények;1369;326;16;29;0.3
+Sertésdagadó;Hús és húskészítmények;1772;422;12;42;0.3
+Sertéslapocka;Hús és húskészítmények;1201;286;17.5;23.9;0.3
+Sertésmáj;Hús és húskészítmények;569;136;19.5;5.3;2.5
+Sertésmájkrém;Hús és húskészítmények;780;185;9.4;14.7;4.1
+Sertésmájkrém, hosszúkás;Hús és húskészítmények;1290;310;20;25.5;0
+Sertésnyelv;Hús és húskészítmények;891;213;16.8;16;0.5
+Sertészsír;Zsiradékok;3757;898;0.1;99.7;0
+Sertésszív;Hús és húskészítmények;402;96;16.9;3;0.4
+Somogyi csípős kolbász;Hús és húskészítmények;1420;340;11.6;32.5;0
+Sonkaszalámi;Hús és húskészítmények;665;159;21.2;8.2;0.2
+Sóska;Zöldség- és főzelékfélék, gyümölcsök;96;23;2.4;0.5;2.3
+Spárga;Zöldség- és főzelékfélék, gyümölcsök;67;16;2;0.1;1.8
+Sportrobi;Erjesztett tejtermékek;1612;384;83;3.5;5
+Sűrített tej, cukrozott;Erjesztett tejtermékek;1284;317;8.5;7;54.9
+Sütőtök;Zöldség- és főzelékfélék, gyümölcsök;322;77;1.5;0.6;16.5
+Szaloncukor, konzum;Édesipari termékek;1540;368;0.1;0.1;91.6
+Szalonna, füstölt;Zsiradékok;2900;693;9;73;0
+Szamóca (földieper);Zöldség- és főzelékfélék, gyümölcsök;142;34;0.9;0.6;7.2
+Száraztészta, 2 tojásos;Tészták;1590;380;14;2.6;75.1
+Száraztészta, 4 tojásos;Tészták;1598;382;15;3.4;72.9
+Száraztészta, 8 tojásos;Tészták;1638;390;17;5;69.2
+Szardínia, olajos;Halak és halkészítmények;1184;283;22.5;21.4;0
+Szárnyasfelvágott;Hús és húskészítmények;920;220;18.8;16;0
+Szarvashús;Hús és húskészítmények;502;120;20.7;3.9;0.6
+Szeder;Zöldség- és főzelékfélék, gyümölcsök;134;32;0.8;1.8;6
+Szekszárdi csemege sajt;Erjesztett tejtermékek;1474;351;26;26.8;1.5
+Szendvicsvaj;Zsiradékok;2654;632;0.3;70;0.3
+Szepesi virsli;Hús és húskészítmények;1347;322;14.2;29.4;0.2
+Szigetközi sajt;Erjesztett tejtermékek;1201;286;24.9;20;1.5
+Szilva;Zöldség- és főzelékfélék, gyümölcsök;238;57;0.7;0.5;13.1
+Szilvabefőtt;Zöldség- és főzelékfélék, gyümölcsök;380;90;0.4;0.3;21.9
+Szójagranulátum;Hüvelyesek;2150;512;45;20.6;18.3
+Szójaliszt (teljes);Hüvelyesek;2150;512;41.6;28.5;22.1
+Szójaliszt (zsírtalanított);Hüvelyesek;1378;328;47.3;0.6;33.4
+Szójás kenyér;Kenyérfélék;916;218;14.9;0.5;38.5
+Szőlő;Zöldség- és főzelékfélék, gyümölcsök;318;76;0.6;0.5;18.1
+Teasajt;Erjesztett tejtermékek;1247;297;21.7;22.5;2
+Tehéntej, homogénezett, pasztőrözött;Tej és tejtermékek;281;67;3.4;3.6;5.3
+Tehéntej, pasztőrözött;Tej és tejtermékek;252;60;3.4;2.8;5.3
+Tehéntej, részben fölözött;Tej és tejtermékek;202;48;3.4;1.5;5.3
+Tehéntúró, félzsíros;Erjesztett tejtermékek;600;143;16.2;7;3.7
+Tehéntúró, sovány;Erjesztett tejtermékek;318;76;14.1;0.5;3.8
+Tehéntúró, zsíros;Erjesztett tejtermékek;823;197;17.9;12.4;3.5
+Tej, ultrapasztőrözött, tartós;Tej és tejtermékek;256;61;3.4;3;5.1
+Tejes fagylalt;Édesipari termékek;720;172;4.3;3.8;30.1
+Tejes kukorica;Zöldség- és főzelékfélék, gyümölcsök;531;127;4.7;1.6;23.6
+Tejföl;Erjesztett tejtermékek;723;173;3.3;16;3.9
+Tejföl, energiaszegény;Erjesztett tejtermékek;575;137;3.4;12;4
+Tejkaramella;Édesipari termékek;1835;438;2.2;11.4;81.6
+Tejpor, sovány;Erjesztett tejtermékek;1555;372;36;2;50.3
+Tejpor, zsíros;Erjesztett tejtermékek;2060;493;25.5;27;37
+Tejszín krémsajt;Erjesztett tejtermékek;1083;259;2.8;26.2;3.1
+Tejszínhabpótló por   ;Édesipari termékek;2016;480;4.9;32.9;39.6
+Téliszalámi;Hús és húskészítmények;2159;516;25.1;46.1;0.3
+Tenkes sajt;Erjesztett tejtermékek;1109;265;27.8;16.3;1.9
+Tepertő;Zsiradékok;3337;797;12.1;83.2;0
+Tettye sajt;Erjesztett tejtermékek;1491;355;15.6;31.6;2.1
+Tibi tejcsokoládé;Édesipari termékek;2385;570;7.7;36.8;52.1
+Tojáspor, teljes;Tojások;2347;561;44.7;40.1;5.2
+Torma;Zöldség- és főzelékfélék, gyümölcsök;328;78;2.7;0.4;15.9
+Tök (főző, spárga);Zöldség- és főzelékfélék, gyümölcsök;126;30;1.1;0.1;6.1
+Tőkehalfilé;Halak és halkészítmények;364;87;19.4;0.5;1.2
+Tőkehalszelet, olajos;Halak és halkészítmények;1113;266;16.1;22.4;0
+Tökmag;Olajos magvak;2862;636;33.9;51.5;3.6
+Töltetlen savanyú, erős, mézcukorka;Édesipari termékek;1660;396;0;0;98.9
+Trappista sajt;Erjesztett tejtermékek;1554;370;27.7;28.1;1.6
+Túra, sovány tömbsajt;Erjesztett tejtermékek;781;186;25.7;8.4;2
+Túrókrém epres, kajszis, meggyes hab;Erjesztett tejtermékek;553;132;7.2;4.7;15.3
+Tyúkhús;Hús és húskészítmények;739;176;19;6.5;0.4
+Tyúktojás, egész;Tojások;686;164;13.5;12;0.6
+Uborka;Zöldség- és főzelékfélék, gyümölcsök;62;15;1;0.1;1.7
+Vadász sajt;Erjesztett tejtermékek;1298;309;23.9;22.9;1.8
+Vadászfelvágott;Hús és húskészítmények;992;237;16.3;19;0.2
+Vaddisznó, színhús;Hús és húskészítmények;460;110;21.6;2.4;0.4
+Vadkacsahús;Hús és húskészítmények;506;121;22.7;3.1;0.5
+Vaj;Zsiradékok;3026;724;0.4;80;0.5
+Vajkrém;Zsiradékok;1604;382;2.5;40;2
+Vargánya;Zöldség- és főzelékfélék, gyümölcsök;168;40;5.7;0.2;3.8
+Vasi sajtkrém;Erjesztett tejtermékek;1612;385;5.5;38.5;2
+Véreshurka;Hús és húskészítmények;1218;291;13.1;23;8
+Veronai felvágott;Hús és húskészítmények;1172;280;14.6;24.5;0.2
+Virsli;Hús és húskészítmények;967;231;12.5;20;0.2
+Vörös káposzta;Zöldség- és főzelékfélék, gyümölcsök;130;31;1.7;0.2;5.7
+Vöröshagyma;Zöldség- és főzelékfélék, gyümölcsök;163;39;1.2;0.1;8.3
+Zabpehely;Gabonafélék;1579;376;14.4;6.8;64.3
+Zalai felvágott;Hús és húskészítmények;1016;242;15.6;19.9;0.6
+Zalai füstölt sajt;Erjesztett tejtermékek;1457;347;25.2;26.6;1.7
+Zellergumó;Zöldség- és főzelékfélék, gyümölcsök;121;29;1.4;0.3;5
+Zöldbab;Zöldség- és főzelékfélék, gyümölcsök;167;40;2.6;0.3;6.8
+Zöldborsó;Zöldség- és főzelékfélék, gyümölcsök;368;88;7;0.4;14
+Zöldborsós kolbász;Hús és húskészítmények;2010;480;23;42;2
+Zöldpaprika;Zöldség- és főzelékfélék, gyümölcsök;84;20;1.2;0.3;3
+Zselatin;Édesipari termékek;1562;372;93;0;0
+Zsemlemorzsa;Gabonafélék;1431;342;10.2;0.9;73.3

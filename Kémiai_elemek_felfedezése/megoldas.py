@@ -53,4 +53,3 @@ class Megoldas:
             if v > 3:
                 out += f"\t{k}: {v} db \n"
         return out
-
