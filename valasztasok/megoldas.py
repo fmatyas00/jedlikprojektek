@@ -30,20 +30,26 @@ class Megoldas:
         return szav / 12345 * 100
 
     @property
-    def part_szavazatok(self) -> dict[str, float]:
-        out: dict[str, float] = {}
+    def part_szavazatok(self) -> dict[str, int]:
+        stat: dict[str, int] = {}
         for i in self._eredmenyek:
-            if i.part not in out:
-                out.update({i.part: i.part_szavazatok})
+            if i.part_nev in stat:
+                stat[i.part_nev] += i.szavazatok
             else:
-                for k, v in out.items():
-                    if k == i.part:
-                        v += i.part_szavazatok
-        for k, v in out.items():
-            out[v] = v / self.szavazatok_szama * 100
-        out["Független jelöltek"] = out.pop("-")
-        out["Gyümolcsevők Pártja"] = out.pop("GYEP")
-        out["Tejivók szövetsége"] = out.pop("TISZ")
-        out["Zöldségevők pártja"] = out.pop("ZEP")
-        out["Húsevők pártja"] = out.pop("HEP")
+                stat[i.part_nev] = i.szavazatok
+        return stat
+
+    @property
+    def eredmeny_stat(self) -> str:
+        out: str = ""
+        szav: int = self.szavazatok_szama
+        for k, v in self.part_szavazatok.items():
+            out += f"\t{k}= {(v/szav):.2%}\n"
         return out
+
+    @property
+    def gyoztes_kepviselok(self) -> str:
+        out: str = ""
+        akt_max: int = 0
+        for i in self._eredmenyek:
+            

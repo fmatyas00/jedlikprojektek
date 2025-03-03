@@ -26,3 +26,17 @@ class ValasztasiEredmeny:
     @property
     def part_szavazatok(self) -> int:
         return self._part_szavazatok
+
+    @property
+    def part_nev(self) -> str:
+        # if self._pártjel == "GYEP":
+        #    return "Gyümölcsevők pártja"
+        # ...
+        part_dict: dict[str, str] = {
+            "GYEP": "Gyümölcsevők Pártja",
+            "HEP": "Húsevők Pártja",
+            "TISZ": "Tejívók szövetsége",
+            "ZEP": "Zöldségevők párja",
+            "-": "Független jelöltek",
+            }
+        return part_dict[self._part]
