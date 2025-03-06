@@ -1,4 +1,4 @@
-from megoldas import Megoldas
+from Megoldas import Megoldas
 
 
 def main() -> None:
