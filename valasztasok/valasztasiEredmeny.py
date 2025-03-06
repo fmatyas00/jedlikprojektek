@@ -28,10 +28,11 @@ class ValasztasiEredmeny:
         return self._part_szavazatok
 
     @property
+    def kerulet(self) -> str:
+        return str(self._kerulet)
+
+    @property
     def part_nev(self) -> str:
-        # if self._pártjel == "GYEP":
-        #    return "Gyümölcsevők pártja"
-        # ...
         part_dict: dict[str, str] = {
             "GYEP": "Gyümölcsevők Pártja",
             "HEP": "Húsevők Pártja",

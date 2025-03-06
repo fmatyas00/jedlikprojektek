@@ -52,4 +52,29 @@ class Megoldas:
         out: str = ""
         akt_max: int = 0
         for i in self._eredmenyek:
-            
+            if i.szavazatok > akt_max:
+                akt_max = i.szavazatok
+                out = f"\n{i.nev} {i.part}\n"
+        for i in self._eredmenyek:
+            if i.szavazatok == akt_max and i.nev not in out:
+                out += f"{i.nev} {i.part}\n"
+        out.replace("-", "Független")
+        return out
+
+    @property
+    def kerulet_gyoztes(self) -> None:
+        ker_gyoztes: dict[int, str] = {}
+        for i in self._eredmenyek:
+            if i.kerulet not in ker_gyoztes.items():
+                gyoztes: str = ""
+                akt_max: int = 0
+                for j in self._eredmenyek:
+                    if i.kerulet == j.kerulet and j.szavazatok > akt_max:
+                        akt_max = j.szavazatok
+                        gyoztes = j.nev + " " + j.part
+                ker_gyoztes.update({int(i.kerulet): gyoztes.replace("-", "Független")})
+        sorok_lista: list[str] = []
+        for k, v in dict(sorted(ker_gyoztes.items())).items():
+            sorok_lista.append(f"{k}. kerület: {v}\n")
+        with open("kepviselok.txt", "w", encoding="utf-8") as file:
+            file.writelines(sorok_lista)

@@ -15,7 +15,8 @@ def main() -> None:
         f"4. feladat:\nA választáson {m.szavazatok_szama} állampolgár, a jogosultak {round(m.szavazok_szazaleka(m.szavazatok_szama), 2)}%-a vett részt"
     )
     print(f"5. feladat\n{m.eredmeny_stat}")
-
+    print(f"4. feladat: {m.gyoztes_kepviselok}")
+    print(m.kerulet_gyoztes)
 
 if __name__ == "__main__":
     main()
