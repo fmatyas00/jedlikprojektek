@@ -61,8 +61,7 @@ class Megoldas:
         out.replace("-", "Független")
         return out
 
-    @property
-    def kerulet_gyoztes(self) -> None:
+    def kerulet_gyoztes(self, all_nev: str) -> None:
         ker_gyoztes: dict[int, str] = {}
         for i in self._eredmenyek:
             if i.kerulet not in ker_gyoztes.items():
@@ -75,6 +74,6 @@ class Megoldas:
                 ker_gyoztes.update({int(i.kerulet): gyoztes.replace("-", "Független")})
         sorok_lista: list[str] = []
         for k, v in dict(sorted(ker_gyoztes.items())).items():
-            sorok_lista.append(f"{k}. kerület: {v}\n")
-        with open("kepviselok.txt", "w", encoding="utf-8") as file:
+            sorok_lista.append(f"{k}.kerület: {v}\n")
+        with open(all_nev, "w", encoding="utf-8") as file:
             file.writelines(sorok_lista)

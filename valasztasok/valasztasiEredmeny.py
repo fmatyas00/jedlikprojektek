@@ -36,8 +36,8 @@ class ValasztasiEredmeny:
         part_dict: dict[str, str] = {
             "GYEP": "Gyümölcsevők Pártja",
             "HEP": "Húsevők Pártja",
-            "TISZ": "Tejívók szövetsége",
-            "ZEP": "Zöldségevők párja",
+            "TISZ": "Tejivók Szövetsége",
+            "ZEP": "Zöldségevők Pártja",
             "-": "Független jelöltek",
             }
         return part_dict[self._part]

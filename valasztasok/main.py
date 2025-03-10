@@ -16,7 +16,7 @@ def main() -> None:
     )
     print(f"5. feladat\n{m.eredmeny_stat}")
     print(f"4. feladat: {m.gyoztes_kepviselok}")
-    print(m.kerulet_gyoztes)
+    print(m.kerulet_gyoztes("kepviselok.txt"))
 
 if __name__ == "__main__":
     main()
