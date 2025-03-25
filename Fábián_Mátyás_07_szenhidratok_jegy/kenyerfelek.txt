@@ -1,0 +1,15 @@
+Nev;Szenhidrat
+Alföldi kenyér;53.1
+Bakonyi barna kenyér;50.6
+Diós búrkifli;45.2
+Félbarna kenyér;52.3
+Graham-(búza)kenyér;54.0
+Habroló (üres, töltetlen);43.0
+Házifehér kenyér;53.5
+Hóvirág kétszersült, édes;74.2
+Hóvirág kétszersült, sós;80.4
+Kétszersült (karlsbadi);80.7
+Lekváros bukta;56.6
+Pászka (macesz);77.8
+Rozskenyér;53.6
+Szójás kenyér;38.5
