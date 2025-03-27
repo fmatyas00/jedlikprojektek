@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="hu">
+<meta charset="utf-8">
+<link rel="stylesheet" href="styles.css">
+<title>Med-Im Bt.</title>
+
+    <div id="cimsor">
+        <div id="cimsor_felsodisz"></div>
+        <div id="cimsor_bal"></div>
+        <div id="cimsor_kozep">
+            <h1>Med-Im Bt.</h1>
+            <p>Dr. Imrédy A. József háziorvos és szívspecialista honlapja</p>
+        </div>
+        <div id="cimsor_jobb"></div>
+        <div id="cimsor_alsodisz"></div>
+    </div>
+    <div id="menusor">
+        <span><a href="index.html">Aktualitások</a></span>
+        <span id="aktiv"><a href="szabadsagok.html">Szabadságok</a></span>
+        <span><a href="kapcsolat.html">Kapcsolat</a></span>
+        <span><a href="hirlevel.html">Hírlevél</a></span>
+    </div>
+    <div id="tartalom">
+        <h1>Szabadságok</h1>
+        <p>A következő napokon a rendelés szünetel:</p>
+        <p>május:</p>
+            <p>május 1-4. között</p>
+            <p>május 22-24. között</p>
+        <p>június:</p>
+            <p>június 3.</p>
+            <p>június 20-22. között</p>
+        <p>július:</p>
+        <ol>
+            <li>július 13.</li>
+            <li>július 16-18. között</li>
+        </ol>
+        <p>augusztus</p>
+        <ol>
+            <li>augusztus 27.</li>
+        </ol>
+    </div>
+    <div id="oldal_alja"></div>
+</html>
