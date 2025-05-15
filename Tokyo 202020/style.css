@@ -1,0 +1,31 @@
+header {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("images/header.jpg");
+    height: 415px;
+}
+
+header h1{
+    background-color: rgba(248, 248, 248,0.75);
+    margin-top: 150px;
+    font-family: Verdana;   
+    color: #416618;
+    font-weight: bold;
+}
+
+main h2{    
+    color:  #416618;
+    margin-top: 1rem;
+    padding-left: 1rem;
+}
+
+#kajak4 li{
+    line-height: 3rem;
+    list-style-image: url(images/arany.png);
+    float: left;
+    margin-right: 40px;
+}
+h2{
+    border-left: dotted 3px #416618;
+    font-variant: small-caps;
+}
