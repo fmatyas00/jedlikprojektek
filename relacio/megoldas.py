@@ -6,7 +6,7 @@ class Megoldas:
 
     def __init__(self, állomány_neve: str) -> None:
         with open(állomány_neve, "r", encoding="utf-8") as file:
-            for sor in file.read().splitlines():  # [1:] - első sor kihagyása
+            for sor in file.read().splitlines():
                 self.relacio.append(RelaciosKifejezes(sor))
 
     @property
