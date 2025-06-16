@@ -1,0 +1,61 @@
+AZ IPv4 cím 32 bites
+192.168.44.0/24-- >/24 azt mondja meg, hogy 24db 1-es van
+11111111 11111111 11111111 00000000 -->az alhálózati maszk 255.255.255.0
+
+192.168.44.0 --->Ez a hálózat címe
+192.168.44.255 --> Ez a broadcast cím
+
+innen jön a móka és kacagás, az alhálózat számítás :)
+1. alhálózatnak szüksége van 110 álomásra. 
+-->meg kell határozni a Magic Numbert--> vagyis 2 a hánydikon :) (2 hatványai)
+110-hez melyik van legközelebb!!!!-->128 van legközelebb->Ez pedig 2^7-iken
+
+Most alakítjuk át az alhálózati maszkot-->
+11111111 11111111 11111111 00000000--Eredeti, jobbról számoljuk vissza, hogy hol lesz 2-a hetediken
+
+11111111 11111111 11111111 10000000 -->Hogyan alakult a maszk?
+mennyivel lett több 1-es? 1-el
+Vagyis az új hálózat-->192.168.44.0/25--Ezt írd be a kalkulátorba!!
+
+Eredeti  hálózat 192.168.44.0/24 Move to /25 https://jodies.de/ipcalc
+Az új hálózat:
+Netmask:   255.255.255.128 = 25  11111111.11111111.11111111.1 0000000
+Wildcard:  0.0.0.127             00000000.00000000.00000000.0 1111111
+
+Network:   192.168.44.0/25       11000000.10101000.00101100.0 0000000 (Class C)
+Broadcast: 192.168.44.127        11000000.10101000.00101100.0 1111111
+HostMin:   192.168.44.1          11000000.10101000.00101100.0 0000001
+HostMax:   192.168.44.126        11000000.10101000.00101100.0 1111110
+Hosts/Net: 126                   (Private Internet)
+
+
+Ezt kell tovább bontani, mert kell még olyan alhálózat ahol 55-gépre lesz szükség.
+Megint keressük a Magic Numert--> 55-höz a 64 van legközelebb-->2^6
+
+Az alhálózat számítás! Melyik a bontantó hálózat? --> 192.168.44.128/25 EZ!!
+
+ 192.168.44.128/25 
+ 
+ Hogyan alakítjuk tovább a maszkot?
+ 
+ 11111111 11111111 11111111 10000000 -->2^6
+ 11111111 11111111 11111111 11000000
+
+Az új hálózat-->  192.168.44.128/26 Eredeti:192.168.44.128/25 -->move to:26
+Netmask:   255.255.255.192 = 26  11111111.11111111.11111111.11 000000
+Wildcard:  0.0.0.63              00000000.00000000.00000000.00 111111
+
+Network:   192.168.44.128/26     11000000.10101000.00101100.10 000000 (Class C)
+Broadcast: 192.168.44.191        11000000.10101000.00101100.10 111111
+HostMin:   192.168.44.129        11000000.10101000.00101100.10 000001
+HostMax:   192.168.44.190        11000000.10101000.00101100.10 111110
+Hosts/Net: 62         
+
+
+Ha esetleg még tovább kellene bontani, akkor a szóba jöhető alhhálózat?
+192.168.44.192/26 --10 gép kell akkor2^4-->MN:16
+ 11111111 11111111 11111111 11000000--eredeti /26
+ 11111111 11111111 11111111 11110000 -- az új maszk /28
+
+
+
